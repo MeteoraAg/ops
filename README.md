@@ -1,6 +1,13 @@
 # Meteora Operations
 
-Github Repo home of the Meteora Operations team.
+Github Repo for the Meteora Operations team.
 
-### Kelsier Addresses
-We're working on a public set of Kelsier Addresses, crowdsourced with community effort. Please feel free to submit a PR to this csv with address,reason/evidence if you want to add addresses to this db. 
+This repository will be used to develop an open Blacklist of wallets linked to wash-trading, rug pulls, or any other suspicious activity on Meteora.
+
+These wallets will be excluded from any allocation of MET.
+
+Please feel free to submit a PR and add into the CSV file with address,reason/evidence if you want to add addresses to this blacklist.
+
+### Latest addition: Kelsier Addresses
+
+We've added a list of wallet addresses associated with Kelsier Ventures, thanks to @dethective on Twitter and Arkham Intelligence.
