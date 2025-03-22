@@ -23,6 +23,8 @@ Guidelines:
 2. Reasoning – Describe how the submitted addresses are associated to Kelsier Ventures.
 3. Methodology - Explain the method used to discover the addresses and provide details like transaction hashes, screenshots and relevant links that can help with verification.
 
-The team or our partners will help to verify your submission and may ask for additional information to assist with verification. If there is clear evidence that the submitted wallets are associated with Kelsier, we will merge the new wallets into `kelsier_addresses.csv`.
+The team or our partners will help to verify your submission and may ask for additional information to assist with verification. 
+
+If there is clear evidence that the submitted wallets are associated with Kelsier, we will merge the new wallets into `kelsier_addresses.csv`.
 
 _The repository and issue template is inspired by a similar initiative by [Safe Global](https://github.com/safe-global) and [Hop Protocol](https://github.com/hop-protocol/hop-airdrop)._
