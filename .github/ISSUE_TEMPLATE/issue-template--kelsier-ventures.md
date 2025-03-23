@@ -16,10 +16,10 @@ The current address list can be found here: `kelsier_addresses.csv`
 
 Example:
 ```
-Wallet 1
-Wallet 2
-Wallet 3
-Wallet 4
+1. Wallet 1
+2. Wallet 2
+3. Wallet 3
+4. Wallet 4
 ```
 
 Please check the existing list of addresses in `kelsier_addresses.csv` to ensure that there are no duplicate address submissions.
