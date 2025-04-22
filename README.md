@@ -1,7 +1,6 @@
-## Update: 22 March 2025
+## Update: 22 April 2025
 
-- Created an issue template to streamline the submission of wallet addresses.
-- This blacklist will focus on wallets associated with **Kelsier Ventures only**. For wallets suspected of DLMM washtrading/rugpulls, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSevViXtkyOvU1nHwshhzzk6dNh-jFayxon5N8NuKxtAWpEWlw/viewform) instead.
+- Appended new unique wallets to `kelsier_addresses.csv` - total of 665 addresses in the blacklist.
 
 # Meteora Operations
 
