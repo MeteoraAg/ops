@@ -1,6 +1,6 @@
 ## Update: 22 April 2025
 
-- Appended new unique wallets to `kelsier_addresses.csv` - total of 665 addresses in the blacklist.
+- Appended new unique wallets to `kelsier_addresses.csv` - total of 665 addresses in the blacklist. Credits to submissions from [dethective](https://x.com/dethective), [degenspy](https://x.com/degen_spy) and more.
 
 # Meteora Operations
 
